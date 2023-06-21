@@ -1,2 +1,2 @@
 # contraposition
-If P implies Q then not P implies not Q. (P → Q) ⊢ (¬P → ¬Q)
+The statement that P implies Q is equivalent to the statement that not Q implies not P. (P → Q) ↔ (¬Q → ¬P)
